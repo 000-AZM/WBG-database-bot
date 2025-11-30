@@ -43,7 +43,8 @@ def handle_site_code(chat_id, code):
             f"Team: {site['Team']}\n"
             f"Staff: {site['Staff']}\n"
             f"VCM code: {site['VCM code']}\n"
-            f"Coordinates: {site['Lat']}, {site['Long']}"
+            f"Coordinates: {site['Lat']}, {site['Long']}\n\n"
+            f"WBG database bot by Alua (https://t.me/aluaxeliana)"
         )
     else:
         reply = "❌ SiteID not found. Please try again."

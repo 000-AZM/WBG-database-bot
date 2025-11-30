@@ -1,6 +1,6 @@
 from flask import Flask, request
 import telebot
-from bot import bot, handle_site_code
+from bot import bot, handle_site_id
 
 app = Flask(__name__)
 
@@ -17,5 +17,5 @@ def webhook():
             elif text.startswith("/HELP"):
                 bot.send_message(chat_id, "Send a SiteID to get site information.\nExample: BGO0001")
             else:
-                handle_site_code(chat_id, text)
+                handle_site_id(chat_id, text)
     return "ok", 200

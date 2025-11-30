@@ -1,29 +1,27 @@
 import telebot
 import json
+import os
 
-TOKEN = "8505220046:AAE7hfD9aKU7drBVuQZHUIiZZAAuaJV5LMM"
-bot = telebot.TeleBot(TOKEN)
+# -----------------------------
+# Telegram Bot Token
+# -----------------------------
+TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+bot = telebot.TeleBot(TOKEN)  # synchronous, works in serverless
 
-# Load JSON database
-with open("data.json", "r", encoding="utf-8") as f:
+# -----------------------------
+# Load JSON database (absolute path)
+# -----------------------------
+BASE_DIR = os.path.dirname(__file__)
+DATA_PATH = os.path.join(BASE_DIR, "data.json")
+
+with open(DATA_PATH, "r", encoding="utf-8") as f:
     site_data = json.load(f)
 
-# Command handlers
-@bot.message_handler(commands=["start"])
-def start(message):
-    bot.send_message(message.chat.id, "👋 Welcome! Send a SiteID (like BGO0001) to get info.")
-
-@bot.message_handler(commands=["help"])
-def help(message):
-    bot.send_message(message.chat.id, "Send a SiteID to get site information.\nExample: BGO0001")
-
-# SiteID handler
-@bot.message_handler(func=lambda m: True)
-def handle_site_id(message):
-    code = message.text.strip().upper()
-    # Search for matching site
-    site = next((s for s in site_data if s["SiteID"].upper() == code), None)
-    
+# -----------------------------
+# Function to handle SiteID lookup
+# -----------------------------
+def handle_site_code(chat_id, code):
+    site = next((s for s in site_data if s["SiteID"].upper() == code.upper()), None)
     if site:
         reply = (
             f"📌 SiteID: {site['SiteID']}\n"
@@ -37,6 +35,6 @@ def handle_site_id(message):
             f"VCM code: {site['VCM code']}\n"
             f"Coordinates: {site['Lat']}, {site['Long']}"
         )
-        bot.send_message(message.chat.id, reply)
     else:
-        bot.send_message(message.chat.id, "❌ SiteID not found. Please try again.")
+        reply = "❌ SiteID not found. Please try again."
+    bot.send_message(chat_id, reply)

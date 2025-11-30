@@ -5,7 +5,7 @@ import os
 # -----------------------------
 # Telegram Bot Token
 # -----------------------------
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "8505220046:AAE7hfD9aKU7drBVuQZHUIiZZAAuaJV5LMM"
 bot = telebot.TeleBot(TOKEN)  # synchronous, works in serverless
 
 # -----------------------------

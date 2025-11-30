@@ -13,7 +13,7 @@ BASE_URL = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
 # -----------------------------
 # Google Sheet Webhook (Apps Script URL)
 # -----------------------------
-GOOGLE_SHEET_WEBHOOK = "https://script.google.com/macros/s/AKfycbzS2iFeFL68coZOg4PEceG9FonO6_WXUJdhWd3P8ePbLRMQYSgEq91p_nyN0lRxTC23zg/exec"
+GOOGLE_SHEET_WEBHOOK = "https://script.google.com/macros/s/AKfycbzmKuH0QLyMuAK-EyiXk6uQNw4w1jnF5SAIOaJfoA9gmkSYk9Ot338SUHI5nB3HynYPPQ/exec"
 
 # -----------------------------
 # Load JSON database

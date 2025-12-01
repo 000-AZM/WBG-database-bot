@@ -52,7 +52,8 @@ def handle_site_code(chat_id, code):
             f"DG NR: {site['DG NR']}\n"
             f"Manager: {site['Manager']}\n"
             f"Team: {site['Team']}\n"
-            f"Coordinates: {site['Lat']}, {site['Long']}\n\n"
+            f"Coordinates: {site['Lat']}, {site['Long']}\n"
+            f"Site Status: {site['Site Status']}\n\n"
             f"WBG database bot by Alua (https://t.me/aluaxeliana)"
         )
     else:

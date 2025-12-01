@@ -10,7 +10,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8210",
-  "Long": "95.2226"
+  "Long": "95.2226",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0004",
@@ -23,7 +24,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.6819",
-  "Long": "95.0119"
+  "Long": "95.0119",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0005",
@@ -36,7 +38,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2468",
-  "Long": "95.6440"
+  "Long": "95.6440",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0006",
@@ -49,7 +52,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8901",
-  "Long": "95.6753"
+  "Long": "95.6753",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0013",
@@ -62,7 +66,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8239",
-  "Long": "95.2145"
+  "Long": "95.2145",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0014",
@@ -75,7 +80,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8275",
-  "Long": "95.2218"
+  "Long": "95.2218",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0015",
@@ -88,7 +94,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8284",
-  "Long": "95.2296"
+  "Long": "95.2296",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0015_02",
@@ -101,7 +108,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8255",
-  "Long": "95.2267"
+  "Long": "95.2267",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0020",
@@ -114,7 +122,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.0259",
-  "Long": "95.5138"
+  "Long": "95.5138",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0028",
@@ -127,7 +136,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8050",
-  "Long": "95.2268"
+  "Long": "95.2268",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0028_01",
@@ -140,7 +150,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18,8034",
-  "Long": "95,2185"
+  "Long": "95,2185",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0029",
@@ -153,7 +164,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8197",
-  "Long": "95.2324"
+  "Long": "95.2324",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0030",
@@ -166,7 +178,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.7013",
-  "Long": "95.2111"
+  "Long": "95.2111",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0035",
@@ -179,7 +192,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8227",
-  "Long": "95.2482"
+  "Long": "95.2482",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0036",
@@ -192,7 +206,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8132",
-  "Long": "95.2569"
+  "Long": "95.2569",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0037",
@@ -205,7 +220,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.7042",
-  "Long": "95.2167"
+  "Long": "95.2167",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0046",
@@ -218,7 +234,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9132",
-  "Long": "95.5465"
+  "Long": "95.5465",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0058",
@@ -231,7 +248,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4347",
-  "Long": "95.5489"
+  "Long": "95.5489",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0059",
@@ -244,7 +262,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4953",
-  "Long": "95.5090"
+  "Long": "95.5090",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0060",
@@ -257,7 +276,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3398",
-  "Long": "95.6246"
+  "Long": "95.6246",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0062",
@@ -270,7 +290,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3486",
-  "Long": "95.6231"
+  "Long": "95.6231",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0063",
@@ -283,7 +304,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2292",
-  "Long": "95.6089"
+  "Long": "95.6089",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0064",
@@ -296,7 +318,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1278",
-  "Long": "95.6675"
+  "Long": "95.6675",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0065",
@@ -309,7 +332,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2362",
-  "Long": "95.6510"
+  "Long": "95.6510",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0066",
@@ -322,7 +346,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2286",
-  "Long": "95.6410"
+  "Long": "95.6410",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0068",
@@ -335,7 +360,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7879",
-  "Long": "95.7481"
+  "Long": "95.7481",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0069",
@@ -348,7 +374,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4631",
-  "Long": "95.4947"
+  "Long": "95.4947",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0072",
@@ -361,7 +388,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4276",
-  "Long": "95.5592"
+  "Long": "95.5592",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0073",
@@ -374,7 +402,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.4187",
-  "Long": "95.5615"
+  "Long": "95.5615",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0074",
@@ -387,7 +416,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2408",
-  "Long": "95.6734"
+  "Long": "95.6734",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0076",
@@ -400,7 +430,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4773",
-  "Long": "95.5168"
+  "Long": "95.5168",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0081",
@@ -413,7 +444,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6483",
-  "Long": "95.4161"
+  "Long": "95.4161",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0082",
@@ -426,7 +458,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7891",
-  "Long": "95.7599"
+  "Long": "95.7599",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0083",
@@ -439,7 +472,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2348",
-  "Long": "95.6641"
+  "Long": "95.6641",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0084",
@@ -452,7 +486,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2280",
-  "Long": "95.6524"
+  "Long": "95.6524",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0085",
@@ -465,7 +500,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1322",
-  "Long": "95.6763"
+  "Long": "95.6763",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0086",
@@ -478,7 +514,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7758",
-  "Long": "95.7450"
+  "Long": "95.7450",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0087",
@@ -491,7 +528,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6399",
-  "Long": "95.4151"
+  "Long": "95.4151",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0088",
@@ -504,7 +542,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7934",
-  "Long": "95.7560"
+  "Long": "95.7560",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0090",
@@ -517,7 +556,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6594",
-  "Long": "95.4176"
+  "Long": "95.4176",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0090_01",
@@ -530,7 +570,8 @@
   "Manager": "#N\/A",
   "Team": "#N\/A",
   "Lat": "#N\/A",
-  "Long": "#N\/A"
+  "Long": "#N\/A",
+  "Site Status": "#N\/A"
  },
  {
   "SiteID": "BGO0091",
@@ -543,7 +584,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4353",
-  "Long": "95.5598"
+  "Long": "95.5598",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0094",
@@ -556,7 +598,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4257",
-  "Long": "95.5646"
+  "Long": "95.5646",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0095",
@@ -569,7 +612,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1215",
-  "Long": "95.6744"
+  "Long": "95.6744",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0096",
@@ -582,7 +626,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.4311",
-  "Long": "95.5422"
+  "Long": "95.5422",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0097",
@@ -595,7 +640,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4743",
-  "Long": "95.4972"
+  "Long": "95.4972",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0098",
@@ -608,7 +654,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4894",
-  "Long": "95.5111"
+  "Long": "95.5111",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0099",
@@ -621,7 +668,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5024",
-  "Long": "95.5136"
+  "Long": "95.5136",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0100",
@@ -634,7 +682,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5127",
-  "Long": "95.5161"
+  "Long": "95.5161",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0101",
@@ -647,7 +696,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3324",
-  "Long": "95.6290"
+  "Long": "95.6290",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0102",
@@ -660,7 +710,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9739",
-  "Long": "95.6937"
+  "Long": "95.6937",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0103",
@@ -673,7 +724,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9812",
-  "Long": "95.7231"
+  "Long": "95.7231",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0104",
@@ -686,7 +738,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2312",
-  "Long": "95.6266"
+  "Long": "95.6266",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0105",
@@ -699,7 +752,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4868",
-  "Long": "95.5019"
+  "Long": "95.5019",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0108",
@@ -712,7 +766,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7831",
-  "Long": "95.7431"
+  "Long": "95.7431",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0119",
@@ -725,7 +780,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6370",
-  "Long": "95.3989"
+  "Long": "95.3989",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0120",
@@ -738,7 +794,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6419",
-  "Long": "95.4274"
+  "Long": "95.4274",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0121",
@@ -751,7 +808,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6512",
-  "Long": "95.4234"
+  "Long": "95.4234",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0122",
@@ -764,7 +822,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3309",
-  "Long": "95.6196"
+  "Long": "95.6196",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0123",
@@ -777,7 +836,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3254",
-  "Long": "95.6245"
+  "Long": "95.6245",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0124",
@@ -790,7 +850,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9838",
-  "Long": "95.7033"
+  "Long": "95.7033",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0125",
@@ -803,7 +864,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9744",
-  "Long": "95.7033"
+  "Long": "95.7033",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0126",
@@ -816,7 +878,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9695",
-  "Long": "95.7102"
+  "Long": "95.7102",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0127",
@@ -829,7 +892,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1359",
-  "Long": "95.6653"
+  "Long": "95.6653",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0128",
@@ -842,7 +906,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9847",
-  "Long": "95.7093"
+  "Long": "95.7093",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0133",
@@ -855,7 +920,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6520",
-  "Long": "95.7784"
+  "Long": "95.7784",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0134",
@@ -868,7 +934,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8163",
-  "Long": "95.2429"
+  "Long": "95.2429",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0145",
@@ -881,7 +948,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8179",
-  "Long": "95.2655"
+  "Long": "95.2655",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0146",
@@ -894,7 +962,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8373",
-  "Long": "95.2223"
+  "Long": "95.2223",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0147",
@@ -907,7 +976,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8274",
-  "Long": "95.2592"
+  "Long": "95.2592",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0148",
@@ -920,7 +990,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4984",
-  "Long": "95.4936"
+  "Long": "95.4936",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0151",
@@ -933,7 +1004,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8152",
-  "Long": "95.2201"
+  "Long": "95.2201",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0157",
@@ -946,7 +1018,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6480",
-  "Long": "95.7875"
+  "Long": "95.7875",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0158",
@@ -959,7 +1032,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6256",
-  "Long": "95.7907"
+  "Long": "95.7907",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0164",
@@ -972,7 +1046,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.0334",
-  "Long": "95.5142"
+  "Long": "95.5142",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0172",
@@ -985,7 +1060,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6936",
-  "Long": "95.2178"
+  "Long": "95.2178",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0172_01",
@@ -998,7 +1074,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6767",
-  "Long": "95.2287"
+  "Long": "95.2287",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0174",
@@ -1011,7 +1088,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.0197",
-  "Long": "95.5028"
+  "Long": "95.5028",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0175",
@@ -1024,7 +1102,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6562",
-  "Long": "95.7951"
+  "Long": "95.7951",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0179",
@@ -1037,7 +1116,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.0242",
-  "Long": "95.5260"
+  "Long": "95.5260",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0182",
@@ -1050,7 +1130,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6388",
-  "Long": "95.7853"
+  "Long": "95.7853",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0182_01",
@@ -1063,7 +1144,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6388",
-  "Long": "95.7852"
+  "Long": "95.7852",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0186",
@@ -1076,7 +1158,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.0106",
-  "Long": "95.5032"
+  "Long": "95.5032",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0188",
@@ -1089,7 +1172,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9128",
-  "Long": "95.5562"
+  "Long": "95.5562",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0189",
@@ -1102,7 +1186,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.7111",
-  "Long": "95.2096"
+  "Long": "95.2096",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0191",
@@ -1115,7 +1200,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8066",
-  "Long": "95.2473"
+  "Long": "95.2473",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0197",
@@ -1128,7 +1214,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4323",
-  "Long": "95.5712"
+  "Long": "95.5712",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0198",
@@ -1141,7 +1228,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.4259",
-  "Long": "95.5502"
+  "Long": "95.5502",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0201",
@@ -1154,7 +1242,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9035",
-  "Long": "95.5447"
+  "Long": "95.5447",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0202",
@@ -1167,7 +1256,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6984",
-  "Long": "95.2277"
+  "Long": "95.2277",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0203",
@@ -1180,7 +1270,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6261",
-  "Long": "95.7741"
+  "Long": "95.7741",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0208",
@@ -1193,7 +1284,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6178",
-  "Long": "95.7929"
+  "Long": "95.7929",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0217",
@@ -1206,7 +1298,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6337",
-  "Long": "95.7987"
+  "Long": "95.7987",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0223",
@@ -1219,7 +1312,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.4221",
-  "Long": "95.5405"
+  "Long": "95.5405",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0226",
@@ -1232,7 +1326,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8054",
-  "Long": "95.2378"
+  "Long": "95.2378",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0233",
@@ -1245,7 +1340,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.7249",
-  "Long": "95.2124"
+  "Long": "95.2124",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0234",
@@ -1258,7 +1354,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6435",
-  "Long": "95.7802"
+  "Long": "95.7802",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0238",
@@ -1271,7 +1368,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7907",
-  "Long": "95.2458"
+  "Long": "95.2458",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0239",
@@ -1284,7 +1382,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4426",
-  "Long": "95.5752"
+  "Long": "95.5752",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0239_01",
@@ -1297,7 +1396,8 @@
   "Manager": "#N\/A",
   "Team": "#N\/A",
   "Lat": "#N\/A",
-  "Long": "#N\/A"
+  "Long": "#N\/A",
+  "Site Status": "#N\/A"
  },
  {
   "SiteID": "BGO0242",
@@ -1310,7 +1410,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6301",
-  "Long": "95.7844"
+  "Long": "95.7844",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0252",
@@ -1323,7 +1424,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6877",
-  "Long": "95.4791"
+  "Long": "95.4791",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0253",
@@ -1336,7 +1438,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7579",
-  "Long": "95.5101"
+  "Long": "95.5101",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0254",
@@ -1349,7 +1452,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3586",
-  "Long": "95.4514"
+  "Long": "95.4514",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0255",
@@ -1362,7 +1466,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8724",
-  "Long": "95.5136"
+  "Long": "95.5136",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0268",
@@ -1375,7 +1480,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8364",
-  "Long": "95.3343"
+  "Long": "95.3343",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0269",
@@ -1388,7 +1494,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7208",
-  "Long": "95.7708"
+  "Long": "95.7708",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0270",
@@ -1401,7 +1508,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8944",
-  "Long": "95.7236"
+  "Long": "95.7236",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0277",
@@ -1414,7 +1522,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.1522",
-  "Long": "95.4429"
+  "Long": "95.4429",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0281",
@@ -1427,7 +1536,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.269",
-  "Long": "95.4374"
+  "Long": "95.4374",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0282",
@@ -1440,7 +1550,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5391",
-  "Long": "95.4715"
+  "Long": "95.4715",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0283",
@@ -1453,7 +1564,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1220",
-  "Long": "95.6981"
+  "Long": "95.6981",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0284",
@@ -1466,7 +1578,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1181",
-  "Long": "95.6017"
+  "Long": "95.6017",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0289",
@@ -1479,7 +1592,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9496",
-  "Long": "95.6620"
+  "Long": "95.6620",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0292",
@@ -1492,7 +1606,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5854",
-  "Long": "95.5347"
+  "Long": "95.5347",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0297",
@@ -1505,7 +1620,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5284",
-  "Long": "95.3512"
+  "Long": "95.3512",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0299",
@@ -1518,7 +1634,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5076",
-  "Long": "95.4364"
+  "Long": "95.4364",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0300",
@@ -1531,7 +1648,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.0427",
-  "Long": "95.6926"
+  "Long": "95.6926",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0301",
@@ -1544,7 +1662,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9438",
-  "Long": "95.7469"
+  "Long": "95.7469",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0305",
@@ -1557,7 +1676,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2051",
-  "Long": "95.5219"
+  "Long": "95.5219",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0317",
@@ -1570,7 +1690,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4184",
-  "Long": "95.2816"
+  "Long": "95.2816",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0318",
@@ -1583,7 +1704,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2854",
-  "Long": "95.6357"
+  "Long": "95.6357",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0319",
@@ -1596,7 +1718,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3849",
-  "Long": "95.5819"
+  "Long": "95.5819",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0321",
@@ -1609,7 +1732,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2784",
-  "Long": "95.7564"
+  "Long": "95.7564",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0323",
@@ -1622,7 +1746,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3148",
-  "Long": "95.3786"
+  "Long": "95.3786",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0323_01",
@@ -1635,7 +1760,8 @@
   "Manager": "#N\/A",
   "Team": "#N\/A",
   "Lat": "#N\/A",
-  "Long": "#N\/A"
+  "Long": "#N\/A",
+  "Site Status": "#N\/A"
  },
  {
   "SiteID": "BGO0324",
@@ -1648,7 +1774,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5304",
-  "Long": "95.1431"
+  "Long": "95.1431",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0325",
@@ -1661,7 +1788,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6362",
-  "Long": "95.1121"
+  "Long": "95.1121",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0326",
@@ -1674,7 +1802,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6886",
-  "Long": "95.3972"
+  "Long": "95.3972",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0329",
@@ -1687,7 +1816,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6018",
-  "Long": "95.7954"
+  "Long": "95.7954",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0336",
@@ -1700,7 +1830,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8257",
-  "Long": "95.7820"
+  "Long": "95.7820",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0339",
@@ -1713,7 +1844,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6546",
-  "Long": "95.1946"
+  "Long": "95.1946",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0346",
@@ -1726,7 +1858,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9614",
-  "Long": "95.3501"
+  "Long": "95.3501",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0346_01",
@@ -1739,7 +1872,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": " 18.962",
-  "Long": " 95.381"
+  "Long": " 95.381",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0347",
@@ -1752,7 +1886,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.7524",
-  "Long": "95.2139"
+  "Long": "95.2139",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0349",
@@ -1765,7 +1900,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6967",
-  "Long": "95.9090"
+  "Long": "95.9090",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0352",
@@ -1778,7 +1914,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4466",
-  "Long": "95.7208"
+  "Long": "95.7208",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0355",
@@ -1791,7 +1928,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3448",
-  "Long": "95.7684"
+  "Long": "95.7684",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0355_01",
@@ -1804,7 +1942,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3448",
-  "Long": "95.7684"
+  "Long": "95.7684",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0356",
@@ -1817,7 +1956,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5304",
-  "Long": "95.2494"
+  "Long": "95.2494",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0360",
@@ -1830,7 +1970,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8667",
-  "Long": "95.5890"
+  "Long": "95.5890",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0360_01",
@@ -1843,7 +1984,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8831",
-  "Long": "95.5916"
+  "Long": "95.5916",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0361",
@@ -1856,7 +1998,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.4636",
-  "Long": "95.0631"
+  "Long": "95.0631",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0363",
@@ -1869,7 +2012,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5843",
-  "Long": "95.1812"
+  "Long": "95.1812",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0367",
@@ -1882,7 +2026,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7191",
-  "Long": "95.1577"
+  "Long": "95.1577",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0368",
@@ -1895,7 +2040,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7111",
-  "Long": "95.1345"
+  "Long": "95.1345",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0371",
@@ -1908,7 +2054,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8132",
-  "Long": "95.2011"
+  "Long": "95.2011",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0383",
@@ -1921,7 +2068,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7771",
-  "Long": "95.3564"
+  "Long": "95.3564",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0390",
@@ -1934,7 +2082,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.6854",
-  "Long": "95.0310"
+  "Long": "95.0310",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0391",
@@ -1947,7 +2096,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.4218",
-  "Long": "95.5195"
+  "Long": "95.5195",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0395",
@@ -1960,7 +2110,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7909",
-  "Long": "95.7724"
+  "Long": "95.7724",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0396",
@@ -1973,7 +2124,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8924",
-  "Long": "95.399"
+  "Long": "95.399",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0401",
@@ -1986,7 +2138,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5445",
-  "Long": "95.6238"
+  "Long": "95.6238",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0404",
@@ -1999,7 +2152,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.7334",
-  "Long": "95.3576"
+  "Long": "95.3576",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0405",
@@ -2012,7 +2166,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8052",
-  "Long": "95.3286"
+  "Long": "95.3286",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0410",
@@ -2025,7 +2180,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5017",
-  "Long": "95.6060"
+  "Long": "95.6060",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0412",
@@ -2038,7 +2194,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.4870",
-  "Long": "95.0424"
+  "Long": "95.0424",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0414",
@@ -2051,7 +2208,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9930",
-  "Long": "95.7750"
+  "Long": "95.7750",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0415",
@@ -2064,7 +2222,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8591",
-  "Long": "95.5590"
+  "Long": "95.5590",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0416",
@@ -2077,7 +2236,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7181",
-  "Long": "95.0054"
+  "Long": "95.0054",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0418",
@@ -2090,7 +2250,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9775",
-  "Long": "95.4075"
+  "Long": "95.4075",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0420",
@@ -2103,7 +2264,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8904",
-  "Long": "95.4743"
+  "Long": "95.4743",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0425",
@@ -2116,7 +2278,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.5719",
-  "Long": "95.0544"
+  "Long": "95.0544",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0426",
@@ -2129,7 +2292,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6394",
-  "Long": "95.2441"
+  "Long": "95.2441",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0426_01",
@@ -2142,7 +2306,8 @@
   "Manager": "#N\/A",
   "Team": "#N\/A",
   "Lat": "#N\/A",
-  "Long": "#N\/A"
+  "Long": "#N\/A",
+  "Site Status": "#N\/A"
  },
  {
   "SiteID": "BGO0428",
@@ -2155,7 +2320,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.5611",
-  "Long": "95.0254"
+  "Long": "95.0254",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0437",
@@ -2168,7 +2334,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7731",
-  "Long": "95.1962"
+  "Long": "95.1962",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0441",
@@ -2181,7 +2348,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3547",
-  "Long": "95.5236"
+  "Long": "95.5236",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0447",
@@ -2194,7 +2362,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7462",
-  "Long": "95.7395"
+  "Long": "95.7395",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0453",
@@ -2207,7 +2376,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8113",
-  "Long": "95.7029"
+  "Long": "95.7029",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0455",
@@ -2220,7 +2390,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.2037",
-  "Long": "95.4430"
+  "Long": "95.4430",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0456",
@@ -2233,7 +2404,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.0000",
-  "Long": "95.6955"
+  "Long": "95.6955",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0459",
@@ -2246,7 +2418,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1172",
-  "Long": "95.7783"
+  "Long": "95.7783",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0465",
@@ -2259,7 +2432,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2609",
-  "Long": "95.7117"
+  "Long": "95.7117",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0467",
@@ -2272,7 +2446,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9145",
-  "Long": "95.3717"
+  "Long": "95.3717",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0468",
@@ -2285,7 +2460,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4610",
-  "Long": "95.3894"
+  "Long": "95.3894",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0469",
@@ -2298,7 +2474,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.6412",
-  "Long": "95.0697"
+  "Long": "95.0697",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0474",
@@ -2311,7 +2488,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7396",
-  "Long": "95.1362"
+  "Long": "95.1362",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0478",
@@ -2324,7 +2502,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3583",
-  "Long": "95.2957"
+  "Long": "95.2957",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0481",
@@ -2337,7 +2516,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9488",
-  "Long": "95.7873"
+  "Long": "95.7873",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0487",
@@ -2350,7 +2530,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6819",
-  "Long": "95.7681"
+  "Long": "95.7681",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0504",
@@ -2363,7 +2544,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1954",
-  "Long": "95.6550"
+  "Long": "95.6550",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0512",
@@ -2376,7 +2558,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.4088",
-  "Long": "95.7325"
+  "Long": "95.7325",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0521",
@@ -2389,7 +2572,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4186",
-  "Long": "95.4676"
+  "Long": "95.4676",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0524",
@@ -2402,7 +2586,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.5132",
-  "Long": "95.0877"
+  "Long": "95.0877",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0531",
@@ -2415,7 +2600,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8426",
-  "Long": "95.2734"
+  "Long": "95.2734",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0536",
@@ -2428,7 +2614,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3154",
-  "Long": "95.6667"
+  "Long": "95.6667",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0546",
@@ -2441,7 +2628,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6030",
-  "Long": "95.7402"
+  "Long": "95.7402",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0550",
@@ -2454,7 +2642,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8065",
-  "Long": "95.4958"
+  "Long": "95.4958",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0551",
@@ -2467,7 +2656,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9089",
-  "Long": "95.5215"
+  "Long": "95.5215",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0553",
@@ -2480,7 +2670,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8061",
-  "Long": "95.6115"
+  "Long": "95.6115",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0565",
@@ -2493,7 +2684,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5789",
-  "Long": "95.2586"
+  "Long": "95.2586",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0566",
@@ -2506,7 +2698,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.5331",
-  "Long": "95.7126"
+  "Long": "95.7126",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0567",
@@ -2519,7 +2712,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7243",
-  "Long": "95.4708"
+  "Long": "95.4708",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0592",
@@ -2532,7 +2726,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.6490",
-  "Long": "94.9990"
+  "Long": "94.9990",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0593",
@@ -2545,7 +2740,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7924",
-  "Long": "95.8404"
+  "Long": "95.8404",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0595",
@@ -2558,7 +2754,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9824",
-  "Long": "95.5185"
+  "Long": "95.5185",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0599",
@@ -2571,7 +2768,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6742",
-  "Long": "95.8505"
+  "Long": "95.8505",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0601",
@@ -2584,7 +2782,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1376",
-  "Long": "95.7426"
+  "Long": "95.7426",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0608",
@@ -2597,7 +2796,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.0506",
-  "Long": "95.7642"
+  "Long": "95.7642",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0610",
@@ -2610,7 +2810,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6625",
-  "Long": "95.4633"
+  "Long": "95.4633",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0615",
@@ -2623,7 +2824,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1648",
-  "Long": "95.7077"
+  "Long": "95.7077",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0617",
@@ -2636,7 +2838,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9394",
-  "Long": "95.5653"
+  "Long": "95.5653",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0618",
@@ -2649,7 +2852,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.0705",
-  "Long": "95.5085"
+  "Long": "95.5085",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0624",
@@ -2662,7 +2866,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7876",
-  "Long": "94.9931"
+  "Long": "94.9931",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0624_01",
@@ -2675,7 +2880,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8105",
-  "Long": "94.9885"
+  "Long": "94.9885",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0642",
@@ -2688,7 +2894,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4819",
-  "Long": "95.4183"
+  "Long": "95.4183",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0647",
@@ -2701,7 +2908,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.0081",
-  "Long": "95.7399"
+  "Long": "95.7399",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0647_01",
@@ -2714,7 +2922,8 @@
   "Manager": "#N\/A",
   "Team": "#N\/A",
   "Lat": "#N\/A",
-  "Long": "#N\/A"
+  "Long": "#N\/A",
+  "Site Status": "#N\/A"
  },
  {
   "SiteID": "BGO0655",
@@ -2727,7 +2936,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7929",
-  "Long": "95.1467"
+  "Long": "95.1467",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0656",
@@ -2740,7 +2950,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.4056",
-  "Long": "95.0591"
+  "Long": "95.0591",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0659",
@@ -2753,7 +2964,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.5374",
-  "Long": "95.0688"
+  "Long": "95.0688",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0660",
@@ -2766,7 +2978,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4571",
-  "Long": "95.6144"
+  "Long": "95.6144",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0662",
@@ -2779,7 +2992,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7099",
-  "Long": "95.8116"
+  "Long": "95.8116",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0664",
@@ -2792,7 +3006,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5040",
-  "Long": "95.6895"
+  "Long": "95.6895",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0665",
@@ -2805,7 +3020,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8538",
-  "Long": "94.9890"
+  "Long": "94.9890",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0669",
@@ -2818,7 +3034,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.5638",
-  "Long": "95.8143"
+  "Long": "95.8143",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0680",
@@ -2831,7 +3048,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5440",
-  "Long": "95.3145"
+  "Long": "95.3145",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0695",
@@ -2844,7 +3062,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3472",
-  "Long": "95.6054"
+  "Long": "95.6054",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0697",
@@ -2857,7 +3076,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2261",
-  "Long": "95.5771"
+  "Long": "95.5771",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0700",
@@ -2870,7 +3090,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1546",
-  "Long": "95.6711"
+  "Long": "95.6711",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0714",
@@ -2883,7 +3104,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3747",
-  "Long": "95.4114"
+  "Long": "95.4114",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0716",
@@ -2896,7 +3118,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.0961",
-  "Long": "95.4668"
+  "Long": "95.4668",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0718",
@@ -2909,7 +3132,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3900",
-  "Long": "95.4826"
+  "Long": "95.4826",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0728",
@@ -2922,7 +3146,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.0799",
-  "Long": "95.7327"
+  "Long": "95.7327",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0736",
@@ -2935,7 +3160,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9038",
-  "Long": "95.2689"
+  "Long": "95.2689",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0740",
@@ -2948,7 +3174,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.6890",
-  "Long": "95.0802"
+  "Long": "95.0802",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0741",
@@ -2961,7 +3188,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5024",
-  "Long": "95.4739"
+  "Long": "95.4739",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0747",
@@ -2974,7 +3202,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6222",
-  "Long": "95.5640"
+  "Long": "95.5640",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0753",
@@ -2987,7 +3216,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8380",
-  "Long": "95.5973"
+  "Long": "95.5973",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0760",
@@ -3000,7 +3230,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8665",
-  "Long": "95.6810"
+  "Long": "95.6810",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0766",
@@ -3013,7 +3244,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9169",
-  "Long": "95.6737"
+  "Long": "95.6737",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0769",
@@ -3026,7 +3258,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7532",
-  "Long": "95.1713"
+  "Long": "95.1713",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0770",
@@ -3039,7 +3272,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4676",
-  "Long": "95.6665"
+  "Long": "95.6665",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0783",
@@ -3052,7 +3286,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8177",
-  "Long": "95.4634"
+  "Long": "95.4634",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0786",
@@ -3065,7 +3300,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6671",
-  "Long": "95.7867"
+  "Long": "95.7867",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0787",
@@ -3078,7 +3314,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6003",
-  "Long": "95.3394"
+  "Long": "95.3394",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0789",
@@ -3091,7 +3328,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7067",
-  "Long": "95.6291"
+  "Long": "95.6291",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0792",
@@ -3104,7 +3342,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1677",
-  "Long": "95.7540"
+  "Long": "95.7540",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0793",
@@ -3117,7 +3356,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2636",
-  "Long": "95.5683"
+  "Long": "95.5683",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0794",
@@ -3130,7 +3370,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4580",
-  "Long": "95.5470"
+  "Long": "95.5470",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0803",
@@ -3143,7 +3384,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.5653",
-  "Long": "95.7772"
+  "Long": "95.7772",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0805",
@@ -3156,7 +3398,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6895",
-  "Long": "95.5667"
+  "Long": "95.5667",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0825",
@@ -3169,7 +3412,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2377",
-  "Long": "95.5229"
+  "Long": "95.5229",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0829",
@@ -3182,7 +3426,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.73",
-  "Long": "95.5903"
+  "Long": "95.5903",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0830",
@@ -3195,7 +3440,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2988",
-  "Long": "95.5132"
+  "Long": "95.5132",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0832",
@@ -3208,7 +3454,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4032",
-  "Long": "95.2278"
+  "Long": "95.2278",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0832_01",
@@ -3221,7 +3468,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4348",
-  "Long": "95.2041"
+  "Long": "95.2041",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0833",
@@ -3234,7 +3482,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8555",
-  "Long": "95.4417"
+  "Long": "95.4417",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0840",
@@ -3247,7 +3496,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9725",
-  "Long": "95.2435"
+  "Long": "95.2435",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0846",
@@ -3260,7 +3510,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8132",
-  "Long": "95.2370"
+  "Long": "95.2370",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0847",
@@ -3273,7 +3524,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8119",
-  "Long": "95.2161"
+  "Long": "95.2161",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0851",
@@ -3286,7 +3538,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8146",
-  "Long": "95.2263"
+  "Long": "95.2263",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0860",
@@ -3299,7 +3552,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8146",
-  "Long": "95.2505"
+  "Long": "95.2505",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0862",
@@ -3312,7 +3566,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8183",
-  "Long": "95.2717"
+  "Long": "95.2717",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0864",
@@ -3325,7 +3580,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7968",
-  "Long": "95.2405"
+  "Long": "95.2405",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0877",
@@ -3338,7 +3594,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8224",
-  "Long": "95.2257"
+  "Long": "95.2257",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0878",
@@ -3351,7 +3608,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8193",
-  "Long": "95.2531"
+  "Long": "95.2531",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0892",
@@ -3364,7 +3622,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8233",
-  "Long": "95.2410"
+  "Long": "95.2410",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0897",
@@ -3377,7 +3636,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8285",
-  "Long": "95.2532"
+  "Long": "95.2532",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0912",
@@ -3390,7 +3650,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8268",
-  "Long": "95.2186"
+  "Long": "95.2186",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0913",
@@ -3403,7 +3664,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8302",
-  "Long": "95.2189"
+  "Long": "95.2189",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0914",
@@ -3416,7 +3678,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8197",
-  "Long": "95.2166"
+  "Long": "95.2166",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0919",
@@ -3429,7 +3692,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4632",
-  "Long": "95.6383"
+  "Long": "95.6383",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0924",
@@ -3442,7 +3706,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3149",
-  "Long": "95.7457"
+  "Long": "95.7457",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0930",
@@ -3455,7 +3720,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8497",
-  "Long": "95.3896"
+  "Long": "95.3896",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0932",
@@ -3468,7 +3734,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5730",
-  "Long": "95.4565"
+  "Long": "95.4565",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0938",
@@ -3481,7 +3748,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8575",
-  "Long": "95.8056"
+  "Long": "95.8056",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO0945",
@@ -3494,7 +3762,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8189",
-  "Long": "95.2591"
+  "Long": "95.2591",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0946",
@@ -3507,7 +3776,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8259",
-  "Long": "95.2369"
+  "Long": "95.2369",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0977",
@@ -3520,7 +3790,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8493",
-  "Long": "95.3790"
+  "Long": "95.3790",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0982",
@@ -3533,7 +3804,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6319",
-  "Long": "95.8291"
+  "Long": "95.8291",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1001",
@@ -3546,7 +3818,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "19.0413",
-  "Long": "95.4328"
+  "Long": "95.4328",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1003",
@@ -3559,7 +3832,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2706",
-  "Long": "95.8309"
+  "Long": "95.8309",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1005",
@@ -3572,7 +3846,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9355",
-  "Long": "95.5047"
+  "Long": "95.5047",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1012",
@@ -3585,7 +3860,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7076",
-  "Long": "95.5403"
+  "Long": "95.5403",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1017",
@@ -3598,7 +3874,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7655",
-  "Long": "95.5529"
+  "Long": "95.5529",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1034",
@@ -3611,7 +3888,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "19,0684",
-  "Long": "95,6325"
+  "Long": "95,6325",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1036",
@@ -3624,7 +3902,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.6828",
-  "Long": "94.9774"
+  "Long": "94.9774",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1037",
@@ -3637,7 +3916,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.5460",
-  "Long": "94.9815"
+  "Long": "94.9815",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1037_01",
@@ -3650,7 +3930,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.5460",
-  "Long": "94.9815"
+  "Long": "94.9815",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1038",
@@ -3663,7 +3944,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18,6168",
-  "Long": "94,9856"
+  "Long": "94,9856",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1056",
@@ -3676,7 +3958,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8946",
-  "Long": "95.5736"
+  "Long": "95.5736",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1057",
@@ -3689,7 +3972,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8738",
-  "Long": "95.3241"
+  "Long": "95.3241",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1064",
@@ -3702,7 +3986,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6594",
-  "Long": "95.5509"
+  "Long": "95.5509",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1078",
@@ -3715,7 +4000,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.5302",
-  "Long": "94.9137"
+  "Long": "94.9137",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1079",
@@ -3728,7 +4014,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3197",
-  "Long": "95.5774"
+  "Long": "95.5774",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1080",
@@ -3741,7 +4028,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2014",
-  "Long": "95.7864"
+  "Long": "95.7864",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1081",
@@ -3754,7 +4042,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3813",
-  "Long": "95.6819"
+  "Long": "95.6819",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1082",
@@ -3767,7 +4056,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5726",
-  "Long": "95.1205"
+  "Long": "95.1205",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1083",
@@ -3780,7 +4070,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9111",
-  "Long": "95.7804"
+  "Long": "95.7804",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1083_01",
@@ -3793,7 +4084,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9111",
-  "Long": "95.7804"
+  "Long": "95.7804",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1087",
@@ -3806,7 +4098,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9170",
-  "Long": "94.9651"
+  "Long": "94.9651",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1089",
@@ -3819,7 +4112,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8144",
-  "Long": "95.2902"
+  "Long": "95.2902",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1133",
@@ -3832,7 +4126,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8815",
-  "Long": "95.1908"
+  "Long": "95.1908",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1135",
@@ -3845,7 +4140,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9746",
-  "Long": "95.5896"
+  "Long": "95.5896",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1136",
@@ -3858,7 +4154,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5495",
-  "Long": "95.5167"
+  "Long": "95.5167",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1137",
@@ -3871,7 +4168,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9360",
-  "Long": "95.4392"
+  "Long": "95.4392",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1137_01",
@@ -3884,7 +4182,8 @@
   "Manager": "Wai Hin Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9420",
-  "Long": "95.4576"
+  "Long": "95.4576",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1138",
@@ -3897,7 +4196,8 @@
   "Manager": "#N\/A",
   "Team": "#N\/A",
   "Lat": "#N\/A",
-  "Long": "#N\/A"
+  "Long": "#N\/A",
+  "Site Status": "#N\/A"
  },
  {
   "SiteID": "BGO1139",
@@ -3910,7 +4210,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9183",
-  "Long": "95.3193"
+  "Long": "95.3193",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1140",
@@ -3923,7 +4224,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.7014",
-  "Long": "95.3510"
+  "Long": "95.3510",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1141",
@@ -3936,7 +4238,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6688",
-  "Long": "95.347"
+  "Long": "95.347",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1142",
@@ -3949,7 +4252,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.7014",
-  "Long": "95.3510"
+  "Long": "95.3510",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1143",
@@ -3962,7 +4266,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6553",
-  "Long": "95.4759"
+  "Long": "95.4759",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1144",
@@ -3975,7 +4280,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5172",
-  "Long": "95.3957"
+  "Long": "95.3957",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1145",
@@ -3988,7 +4294,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4272",
-  "Long": "95.6681"
+  "Long": "95.6681",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1146",
@@ -4001,7 +4308,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4158",
-  "Long": "95.6273"
+  "Long": "95.6273",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1147",
@@ -4014,7 +4322,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3644",
-  "Long": "95.7178"
+  "Long": "95.7178",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1148",
@@ -4027,7 +4336,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2969",
-  "Long": "95.7121"
+  "Long": "95.7121",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1149",
@@ -4040,7 +4350,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6434",
-  "Long": "95.9066"
+  "Long": "95.9066",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1150",
@@ -4053,7 +4364,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7192",
-  "Long": "95.8728"
+  "Long": "95.8728",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1151",
@@ -4066,7 +4378,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": " 18.172",
-  "Long": " 95.614"
+  "Long": " 95.614",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1152",
@@ -4079,7 +4392,8 @@
   "Manager": "Phi Ko Hein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7518",
-  "Long": "95.8144"
+  "Long": "95.8144",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1153",
@@ -4092,7 +4406,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7578",
-  "Long": "95.6325"
+  "Long": "95.6325",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1153_01",
@@ -4105,7 +4420,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": " 17.738",
-  "Long": " 95.624"
+  "Long": " 95.624",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1154",
@@ -4118,7 +4434,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6801",
-  "Long": "95.5165"
+  "Long": "95.5165",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1155",
@@ -4131,7 +4448,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7392",
-  "Long": "95.4953"
+  "Long": "95.4953",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1155_01",
@@ -4144,7 +4462,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": " 17.725",
-  "Long": " 95.491"
+  "Long": " 95.491",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1156",
@@ -4157,7 +4476,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7552",
-  "Long": "95.4586"
+  "Long": "95.4586",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1157",
@@ -4170,7 +4490,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7817",
-  "Long": "95.5472"
+  "Long": "95.5472",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1158",
@@ -4183,7 +4504,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8420",
-  "Long": "95.4951"
+  "Long": "95.4951",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1161",
@@ -4196,7 +4518,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5449",
-  "Long": "95.1018"
+  "Long": "95.1018",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1162",
@@ -4209,7 +4532,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4810",
-  "Long": "95.2219"
+  "Long": "95.2219",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1162_01",
@@ -4222,7 +4546,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4804",
-  "Long": "95.1942"
+  "Long": "95.1942",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1163",
@@ -4235,7 +4560,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": " 18.407",
-  "Long": " 95.351"
+  "Long": " 95.351",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1164",
@@ -4248,7 +4574,8 @@
   "Manager": "Daung Lwan",
   "Team": "MYT_WBG_TEAM02",
   "Lat": " 18.365",
-  "Long": " 95.350"
+  "Long": " 95.350",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1165",
@@ -4261,7 +4588,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": " 18.327",
-  "Long": " 95.310"
+  "Long": " 95.310",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1166",
@@ -4274,7 +4602,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.2385",
-  "Long": "95.4065"
+  "Long": "95.4065",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1167",
@@ -4287,7 +4616,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": " 18.123",
-  "Long": " 95.446"
+  "Long": " 95.446",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1168",
@@ -4300,7 +4630,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17,8561",
-  "Long": "95,7514"
+  "Long": "95,7514",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1169",
@@ -4313,7 +4644,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7928",
-  "Long": "95.7986"
+  "Long": "95.7986",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1170",
@@ -4326,7 +4658,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.0382",
-  "Long": "95.6443"
+  "Long": "95.6443",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1171",
@@ -4339,7 +4672,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9917",
-  "Long": "95.6505"
+  "Long": "95.6505",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1172",
@@ -4352,7 +4686,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.0903",
-  "Long": "95.6496"
+  "Long": "95.6496",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1173",
@@ -4365,7 +4700,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": " 18.322",
-  "Long": " 95.446"
+  "Long": " 95.446",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1174",
@@ -4378,7 +4714,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3173",
-  "Long": "95.4989"
+  "Long": "95.4989",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1175",
@@ -4391,7 +4728,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2195",
-  "Long": "95.7153"
+  "Long": "95.7153",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1176",
@@ -4404,7 +4742,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2904",
-  "Long": " 95.795"
+  "Long": " 95.795",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1213",
@@ -4417,7 +4756,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8825",
-  "Long": "95.6022"
+  "Long": "95.6022",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1214",
@@ -4430,7 +4770,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4179",
-  "Long": "95.4054"
+  "Long": "95.4054",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1215",
@@ -4443,7 +4784,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.626",
-  "Long": "95.441"
+  "Long": "95.441",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1216",
@@ -4456,7 +4798,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "19.1626",
-  "Long": "95.6691"
+  "Long": "95.6691",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1217",
@@ -4469,7 +4812,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8940",
-  "Long": "95.5374"
+  "Long": "95.5374",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1225",
@@ -4482,7 +4826,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9774",
-  "Long": "95.5157"
+  "Long": "95.5157",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1226",
@@ -4495,7 +4840,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7254",
-  "Long": "94.9739"
+  "Long": "94.9739",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1228",
@@ -4508,7 +4854,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7746",
-  "Long": "95.2251"
+  "Long": "95.2251",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1241",
@@ -4521,7 +4868,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.1796",
-  "Long": "95.4455"
+  "Long": "95.4455",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1242",
@@ -4534,7 +4882,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5349",
-  "Long": "95.3314"
+  "Long": "95.3314",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1243",
@@ -4547,7 +4896,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "18.0595",
-  "Long": "95.4742"
+  "Long": "95.4742",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1244",
@@ -4560,7 +4910,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5081",
-  "Long": "95.6530"
+  "Long": "95.6530",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1245",
@@ -4573,7 +4924,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1458",
-  "Long": "95.6366"
+  "Long": "95.6366",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1250",
@@ -4586,7 +4938,8 @@
   "Manager": "Phoe La Pyae",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9769",
-  "Long": "95.7120"
+  "Long": "95.7120",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1251",
@@ -4599,7 +4952,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7958",
-  "Long": "95.7331"
+  "Long": "95.7331",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1252",
@@ -4612,7 +4966,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6590",
-  "Long": "95.7863"
+  "Long": "95.7863",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1275",
@@ -4625,7 +4980,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": " 18.172",
-  "Long": " 95.553"
+  "Long": " 95.553",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1276",
@@ -4638,7 +4994,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": " 18.103",
-  "Long": " 95.571"
+  "Long": " 95.571",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1277",
@@ -4651,7 +5008,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": " 17.983",
-  "Long": " 95.747"
+  "Long": " 95.747",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1283",
@@ -4664,7 +5022,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2779",
-  "Long": "95.5477"
+  "Long": "95.5477",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1284",
@@ -4677,7 +5036,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4394",
-  "Long": "95.3604"
+  "Long": "95.3604",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1288",
@@ -4690,7 +5050,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": " 18.687",
-  "Long": " 95.003"
+  "Long": " 95.003",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1332",
@@ -4703,7 +5064,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5351",
-  "Long": "95.5266"
+  "Long": "95.5266",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1339",
@@ -4716,7 +5078,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1204",
-  "Long": "95.6461"
+  "Long": "95.6461",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1341",
@@ -4729,7 +5092,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3345",
-  "Long": "95.5175"
+  "Long": "95.5175",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1343",
@@ -4742,7 +5106,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2646",
-  "Long": "95.6053"
+  "Long": "95.6053",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1344",
@@ -4755,7 +5120,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6011",
-  "Long": "95.143"
+  "Long": "95.143",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1345",
@@ -4768,7 +5134,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9707",
-  "Long": "95.7745"
+  "Long": "95.7745",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1346",
@@ -4781,7 +5148,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2867",
-  "Long": "95.5732"
+  "Long": "95.5732",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1349",
@@ -4794,7 +5162,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6017",
-  "Long": "95.238"
+  "Long": "95.238",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1350",
@@ -4807,7 +5176,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7138",
-  "Long": "95.6886"
+  "Long": "95.6886",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1351",
@@ -4820,7 +5190,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.1917",
-  "Long": "95.5777"
+  "Long": "95.5777",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1353",
@@ -4833,7 +5204,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.8017",
-  "Long": "95.7712"
+  "Long": "95.7712",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1355",
@@ -4846,7 +5218,8 @@
   "Manager": "Myo Min Htet",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.6975",
-  "Long": "95.0964"
+  "Long": "95.0964",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1356",
@@ -4859,7 +5232,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7618",
-  "Long": "95.7808"
+  "Long": "95.7808",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1357",
@@ -4872,7 +5246,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.7044",
-  "Long": "95.8550"
+  "Long": "95.8550",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1360",
@@ -4885,7 +5260,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6772",
-  "Long": "95.4933"
+  "Long": "95.4933",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1361",
@@ -4898,7 +5274,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4359",
-  "Long": "95.4004"
+  "Long": "95.4004",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1362",
@@ -4911,7 +5288,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5871",
-  "Long": "95.5102"
+  "Long": "95.5102",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1363",
@@ -4924,7 +5302,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.3975",
-  "Long": "95.5102"
+  "Long": "95.5102",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1365",
@@ -4937,7 +5316,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.3911",
-  "Long": "95.5228"
+  "Long": "95.5228",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1366",
@@ -4950,7 +5330,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2213",
-  "Long": "95.6328"
+  "Long": "95.6328",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1367",
@@ -4963,7 +5344,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.2385",
-  "Long": "95.6798"
+  "Long": "95.6798",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1369",
@@ -4976,7 +5358,8 @@
   "Manager": "Wai Linn Tun",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.0715",
-  "Long": "95.7866"
+  "Long": "95.7866",
+  "Site Status": "Unsafe Zone"
  },
  {
   "SiteID": "BGO1160",
@@ -4989,7 +5372,8 @@
   "Manager": "Nay Lin Aung",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "18.0374",
-  "Long": "95.7281"
+  "Long": "95.7281",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1358",
@@ -5002,7 +5386,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6053",
-  "Long": "95.5702"
+  "Long": "95.5702",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1246",
@@ -5015,7 +5400,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": " 18.661",
-  "Long": " 95.234"
+  "Long": " 95.234",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1375",
@@ -5028,7 +5414,8 @@
   "Manager": "Nine Lwin Lwin Ko",
   "Team": "MYT_WBG_TEAM04",
   "Lat": " 18.331",
-  "Long": " 95.400"
+  "Long": " 95.400",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1335",
@@ -5041,7 +5428,8 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8636",
-  "Long": "95.2955"
+  "Long": "95.2955",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1374",
@@ -5054,7 +5442,8 @@
   "Manager": "Saw Sue Sha Aung",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6727",
-  "Long": "95.4284"
+  "Long": "95.4284",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1338",
@@ -5067,7 +5456,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.9386",
-  "Long": "95.5463"
+  "Long": "95.5463",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1342",
@@ -5080,7 +5470,8 @@
   "Manager": "Thu Ya Htike",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4896",
-  "Long": "95.5680"
+  "Long": "95.5680",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0102_01",
@@ -5093,7 +5484,8 @@
   "Manager": "Mya Sein",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.9697",
-  "Long": "95.6669"
+  "Long": "95.6669",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1037_02",
@@ -5106,7 +5498,8 @@
   "Manager": "Hein Htet Aung",
   "Team": "MYT_WBG_TEAM01",
   "Lat": " 95.011",
-  "Long": " 18.523"
+  "Long": " 18.523",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1340",
@@ -5119,7 +5512,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4334",
-  "Long": "95.2570"
+  "Long": "95.2570",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1348",
@@ -5132,7 +5526,8 @@
   "Manager": "Hlwan Moe",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6858",
-  "Long": "95.1309"
+  "Long": "95.1309",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1359",
@@ -5145,7 +5540,8 @@
   "Manager": "Kyaw Kyaw Lwin",
   "Team": "MYT_WBG_TEAM03",
   "Lat": "17.6429",
-  "Long": "95.5646"
+  "Long": "95.5646",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1371",
@@ -5158,7 +5554,8 @@
   "Manager": "Aung Ko Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.8744",
-  "Long": "95.2217"
+  "Long": "95.2217",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1376",
@@ -5171,7 +5568,8 @@
   "Manager": "#N\/A",
   "Team": "#N\/A",
   "Lat": "17.3877",
-  "Long": "96.3148"
+  "Long": "96.3148",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1373",
@@ -5184,7 +5582,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.5537",
-  "Long": "95.4251"
+  "Long": "95.4251",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1334",
@@ -5197,7 +5596,8 @@
   "Manager": "San lin Phyo",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "18.7441",
-  "Long": "94.9923"
+  "Long": "94.9923",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO0363_01",
@@ -5210,7 +5610,8 @@
   "Manager": "Ye Thu Shein",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.6134",
-  "Long": "95.1816"
+  "Long": "95.1816",
+  "Site Status": "Safe Zone"
  },
  {
   "SiteID": "BGO1339_01",
@@ -5223,7 +5624,8 @@
   "Manager": "Hein Htet Zaw",
   "Team": "MYT_WBG_TEAM04",
   "Lat": "#N\/A",
-  "Long": "#N\/A"
+  "Long": "#N\/A",
+  "Site Status": "#N\/A"
  },
  {
   "SiteID": "BGO1396",
@@ -5236,6 +5638,7 @@
   "Manager": "Thurain Mg Mg ",
   "Team": "MYT_WBG_TEAM01",
   "Lat": "#N\/A",
-  "Long": "#N\/A"
+  "Long": "#N\/A",
+  "Site Status": "#N\/A"
  }
-  ]
+]

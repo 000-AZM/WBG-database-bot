@@ -5648,7 +5648,7 @@
   "Site Type": "Co-Location",
   "Owner": "Edotco",
   "Power Status": "DG+BB",
-  "DG NR": "#N\/A",
+  "DG NR": "Not have DG NR",
   "Manager": "Min Kaung Zaw",
   "Team": "MYT_WBG_TEAM02",
   "Lat": "18.4927",

@@ -5640,5 +5640,19 @@
   "Lat": "#N\/A",
   "Long": "#N\/A",
   "Site Status": "#N\/A"
+ },
+ {
+  "SiteID": "BGO0048",
+  "Branch": "WBG",
+  "Township": "Paungde",
+  "Site Type": "Co-Location",
+  "Owner": "Edotco",
+  "Power Status": "DG+BB",
+  "DG NR": "#N\/A",
+  "Manager": "Min Kaung Zaw",
+  "Team": "MYT_WBG_TEAM02",
+  "Lat": "18.4927",
+  "Long": "95.5038",
+  "Site Status": "Safe Zone"
  }
 ]

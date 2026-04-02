@@ -43,17 +43,18 @@ def handle_site_code(chat_id, code):
     site = next((s for s in site_data if s["SiteID"].upper() == code.upper()), None)
     if site:
         reply = (
-            f"📌 SiteID: {site['SiteID']}\n"
-            f"Branch: {site['Branch']}\n"
-            f"Township: {site['Township']}\n"
-            f"Site Type: {site['Site Type']}\n"
-            f"Owner: {site['Owner']}\n"
-            f"Power Status: {site['Power Status']}\n"
-            f"DG NR: {site['DG NR']}\n"
-            f"Manager: {site['Manager']}\n"
-            f"Team: {site['Team']}\n"
-            f"Coordinates: {site['Lat']}, {site['Long']}\n"
-            f"Site Status: {site['Site Status']}\n\n"
+           # f"📌 SiteID: {site['SiteID']}\n"
+           # f"Branch: {site['Branch']}\n"
+           # f"Township: {site['Township']}\n"
+          #  f"Site Type: {site['Site Type']}\n"
+          #  f"Owner: {site['Owner']}\n"
+         #   f"Power Status: {site['Power Status']}\n"
+        #    f"DG NR: {site['DG NR']}\n"
+           # f"Manager: {site['Manager']}\n"
+         #   f"Team: {site['Team']}\n"
+           # f"Coordinates: {site['Lat']}, {site['Long']}\n"
+          #  f"Site Status: {site['Site Status']}\n\n"
+            f"I'm not belong to Mytel network.Thanks"
             f"WBG database bot by Alua (https://t.me/aluaxeliana)"
         )
     else:
